@@ -26,7 +26,7 @@
 		<div class="about-content-col">
 			<span class="section-tag text-serif italic">/ Biography</span>
 			<h2 class="about-title text-sans">
-				Pushing Boundaries <span class="italic text-accent font-light text-serif text-gradient">since 2010</span>
+				Pushing <span class="text-serif italic font-light">Boundaries</span> since 2010
 			</h2>
 
 			<div class="about-bio text-sans">

@@ -12,7 +12,7 @@
 	<div class="container">
 		<div class="section-header">
 			<span class="section-tag text-serif italic">/ Portfolio Spotlight</span>
-			<h2 class="section-title text-sans">Venture Ecosystem</h2>
+			<h2 class="section-title text-sans">Selected <span class="text-serif italic font-light">Ventures</span></h2>
 		</div>
 
 		<!-- Major Showcase Container (glowing light neon frame) -->
@@ -30,7 +30,7 @@
 				<!-- Zoodlabs Dashboard Mockup -->
 				<div class="glass-card venture-card zoodlabs-card">
 					<div class="venture-badge">CONNECTIVITY & INFRASTRUCTURE</div>
-					<h3 class="venture-name text-sans">Zoodlabs</h3>
+					<h3 class="venture-name text-sans"><span class="text-serif italic font-light">01</span> Zoodlabs</h3>
 					<p class="venture-desc">Co-founded and scaled Sierra Leone's premier broadband infrastructure provider, deploying subsea fiber integrations and solar-powered smart towers.</p>
 					
 					<!-- Mini Interactive Dashboard Mockup -->
@@ -53,7 +53,7 @@
 				<!-- Rasab Group / Flot Mobile UI Mockup -->
 				<div class="glass-card venture-card flot-card">
 					<div class="venture-badge">FINTECH & PAYMENTS</div>
-					<h3 class="venture-name text-sans">OpenHub (Flot) & Rasab Group (VultPay)</h3>
+					<h3 class="venture-name text-sans"><span class="text-serif italic font-light">02</span> OpenHub & Rasab Group</h3>
 					<p class="venture-desc">Fintech systems scaled by David: OpenHub drives the Flot merchant aggregator platform, while Rasab Group anchors VultPay utility rails and agent networks.</p>
 					
 					<!-- Mini Mobile Phone Mockup -->
@@ -90,7 +90,7 @@
 				<!-- Metro Cable Card -->
 				<div class="glass-card venture-card metro-card">
 					<div class="venture-badge">METROPOLITAN FIBER</div>
-					<h3 class="venture-name text-sans">Metro Cable</h3>
+					<h3 class="venture-name text-sans"><span class="text-serif italic font-light">03</span> Metro Cable</h3>
 					<p class="venture-desc">Laying metro fiber grids to connect corporate nodes, state operations, and residential portals into a unified digital speedway.</p>
 					<div class="grid-stats">
 						<span class="stat-num text-accent">500+ KM</span>
@@ -101,7 +101,7 @@
 				<!-- Chapi Core Tech -->
 				<div class="glass-card venture-card chapi-card">
 					<div class="venture-badge">SOFTWARE LAB</div>
-					<h3 class="venture-name text-sans">Chapi Core Tech</h3>
+					<h3 class="venture-name text-sans"><span class="text-serif italic font-light">04</span> Chapi Core Tech</h3>
 					<p class="venture-desc">Custom enterprise solutions, big data analytics, and digital transformations tailored to banking and telecom systems.</p>
 					<div class="grid-stats">
 						<span class="stat-num text-accent">12+</span>

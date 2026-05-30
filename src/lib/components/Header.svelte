@@ -32,8 +32,8 @@
 <header class="header" class:scrolled={isScrolled}>
 	<div class="header-container">
 		<!-- Brand Logo -->
-		<a href="/" class="logo text-serif italic" onclick={closeMenu}>
-			David Kpakima
+		<a href="/" class="logo" onclick={closeMenu}>
+			<img src="/logo.png" alt="DK Logo" class="logo-image" />
 		</a>
 
 		<!-- Middle Award Badge -->
@@ -154,16 +154,22 @@
 	}
 
 	.logo {
-		font-size: clamp(1.2rem, 2vw, 1.8rem);
-		font-weight: 500;
-		color: var(--color-text-primary);
-		letter-spacing: -0.5px;
+		display: flex;
+		align-items: center;
 		z-index: 1010;
 		transition: var(--transition-quick);
 	}
 
-	.logo:hover {
-		color: var(--color-accent-dim);
+	.logo-image {
+		height: 36px;
+		width: auto;
+		display: block;
+		object-fit: contain;
+		transition: var(--transition-quick);
+	}
+
+	.logo:hover .logo-image {
+		transform: scale(1.04);
 	}
 
 	/* Gold Award Badge styles */

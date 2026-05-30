@@ -39,7 +39,7 @@
 	<div class="container">
 		<div class="section-header">
 			<span class="section-tag text-serif italic">/ Career Journey</span>
-			<h2 class="section-title text-sans">Professional Milestones</h2>
+			<h2 class="section-title text-sans">Professional <span class="text-serif italic font-light">Milestones</span></h2>
 		</div>
 
 		<!-- Cards Container with Dotted Curly SVG Line -->
@@ -241,9 +241,24 @@
 		flex-direction: column;
 		justify-content: space-between;
 		background: #ffffff;
-		border: 1px solid rgba(0, 0, 0, 0.05);
-		border-left: 3px solid var(--color-accent-dim);
-		box-shadow: 0 4px 20px rgba(0, 0, 0, 0.02);
+		border: 1px solid rgba(15, 19, 11, 0.06);
+		border-radius: var(--border-radius-lg);
+		box-shadow: 
+			0 4px 15px rgba(0, 0, 0, 0.01),
+			0 12px 30px rgba(0, 0, 0, 0.02),
+			4px 4px 0px rgba(157, 255, 59, 0.1),
+			8px 8px 0px rgba(157, 255, 59, 0.05);
+		transition: var(--transition-smooth);
+		transform: translateY(0) translate(0, 0);
+	}
+
+	.testimonial-card:hover {
+		transform: translateY(-4px) translate(-2px, -2px);
+		box-shadow: 
+			0 8px 25px rgba(0, 0, 0, 0.02),
+			0 20px 45px rgba(0, 0, 0, 0.04),
+			6px 6px 0px rgba(157, 255, 59, 0.15),
+			12px 12px 0px rgba(157, 255, 59, 0.08);
 	}
 
 	.quote-mark {

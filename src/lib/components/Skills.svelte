@@ -15,7 +15,7 @@
 						<line x1="2" y1="10" x2="22" y2="10" />
 					</svg>
 				</div>
-				<span class="pill-name text-sans">Fintech & Payments</span>
+				<span class="pill-name text-sans"><span class="text-serif italic font-light" style="opacity: 0.5; margin-right: 0.35rem; font-size: 0.95rem;">(01)</span> Fintech & Payments</span>
 			</div>
 
 			<!-- Skill 2: Telecom -->
@@ -31,7 +31,7 @@
 						<path d="m16 14-8 8" />
 					</svg>
 				</div>
-				<span class="pill-name text-sans">Telecom Infrastructure</span>
+				<span class="pill-name text-sans"><span class="text-serif italic font-light" style="opacity: 0.5; margin-right: 0.35rem; font-size: 0.95rem;">(02)</span> Telecom Infrastructure</span>
 			</div>
 
 			<!-- Skill 3: Broadband -->
@@ -47,7 +47,7 @@
 						<circle cx="12" cy="19" r="3" fill="currentColor" fill-opacity="0.1" />
 					</svg>
 				</div>
-				<span class="pill-name text-sans">Broadband Systems</span>
+				<span class="pill-name text-sans"><span class="text-serif italic font-light" style="opacity: 0.5; margin-right: 0.35rem; font-size: 0.95rem;">(03)</span> Broadband Systems</span>
 			</div>
 		</div>
 
@@ -75,7 +75,7 @@
 						<path d="M12 4c.6-1 2.5-2 5.5-2s5 2.5 4 5.5-3 5-5.5 5.5-4-.6-4-4Z" fill="currentColor" fill-opacity="0.1" />
 					</svg>
 				</div>
-				<span class="pill-name text-sans">Venture Building</span>
+				<span class="pill-name text-sans"><span class="text-serif italic font-light" style="opacity: 0.5; margin-right: 0.35rem; font-size: 0.95rem;">(04)</span> Venture Building</span>
 			</div>
 
 			<!-- Skill 5: C-Suite -->
@@ -88,7 +88,7 @@
 						<path d="M13 3l3 6-4 12" />
 					</svg>
 				</div>
-				<span class="pill-name text-sans">C-Suite Leadership</span>
+				<span class="pill-name text-sans"><span class="text-serif italic font-light" style="opacity: 0.5; margin-right: 0.35rem; font-size: 0.95rem;">(05)</span> C-Suite Leadership</span>
 			</div>
 
 			<!-- Skill 6: Big Data -->
@@ -101,7 +101,7 @@
 						<path d="M3 12c0 1.66 4 3 9 3s9-1.34 9-3" />
 					</svg>
 				</div>
-				<span class="pill-name text-sans">Big Data Analytics</span>
+				<span class="pill-name text-sans"><span class="text-serif italic font-light" style="opacity: 0.5; margin-right: 0.35rem; font-size: 0.95rem;">(06)</span> Big Data Analytics</span>
 			</div>
 		</div>
 	</div>

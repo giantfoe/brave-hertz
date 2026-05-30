@@ -53,10 +53,10 @@
 		/* Light Mode Glowing Theme Tokens */
 		--color-bg: #FFFFFF;
 		--color-section-alt: #F7F9F6; /* Subtle off-white with organic green tint */
-		--color-surface-bg: rgba(255, 255, 255, 0.65);
-		--color-surface-bg-hover: rgba(255, 255, 255, 0.85);
-		--color-surface-border: rgba(157, 255, 59, 0.25);
-		--color-surface-border-hover: rgba(157, 255, 59, 0.5);
+		--color-surface-bg: rgba(255, 255, 255, 0.75);
+		--color-surface-bg-hover: rgba(255, 255, 255, 0.95);
+		--color-surface-border: rgba(15, 19, 11, 0.05);
+		--color-surface-border-hover: rgba(15, 19, 11, 0.12);
 		
 		--color-accent: #9DFF3B; /* Vibrant Neon Green */
 		--color-accent-rgb: 157, 255, 59;
@@ -153,21 +153,22 @@
 		z-index: 0;
 	}
 
-	/* Glassmorphism Card base */
 	.glass-card {
 		background: var(--color-surface-bg);
 		border: 1px solid var(--color-surface-border);
 		backdrop-filter: blur(16px) saturate(120%);
 		-webkit-backdrop-filter: blur(16px) saturate(120%);
 		border-radius: var(--border-radius-lg);
-		box-shadow: 0 10px 30px rgba(0, 0, 0, 0.03);
+		box-shadow: 0 8px 30px rgba(0, 0, 0, 0.025);
 		transition: var(--transition-smooth);
+		transform: translateY(0);
 	}
 
 	.glass-card:hover {
 		border-color: var(--color-surface-border-hover);
 		background: var(--color-surface-bg-hover);
-		box-shadow: 0 15px 40px rgba(157, 255, 59, 0.08);
+		box-shadow: 0 16px 40px rgba(15, 19, 11, 0.05);
+		transform: translateY(-4px);
 	}
 
 	/* Circular Glass Icons matching mockup */

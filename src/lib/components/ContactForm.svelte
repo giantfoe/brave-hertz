@@ -44,7 +44,7 @@
 		<!-- Large Glowing Neon CTA Card matching mockup -->
 		<div class="cta-banner">
 			<div class="cta-content">
-				<h2 class="cta-title text-sans">Let's Make It Happen</h2>
+				<h2 class="cta-title text-sans">Let's Work <span class="text-serif italic font-light">Together</span></h2>
 				<p class="cta-subtext text-sans">
 					Always open to hearing about new infrastructure projects, tech ventures, speaking engagements, or discussing partnerships.
 				</p>

@@ -18,7 +18,7 @@
 	<div class="container">
 		<div class="section-header">
 			<span class="section-tag text-serif italic">/ Media Feed</span>
-			<h2 class="section-title text-sans">News & Transparency</h2>
+			<h2 class="section-title text-sans">News & <span class="text-serif italic font-light">Transparency</span></h2>
 		</div>
 
 		<!-- Replicating the Selected Works Grid with Visual Mockup Headers -->
